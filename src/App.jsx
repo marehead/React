@@ -1,11 +1,10 @@
 import './App.css'
-import Lista from './components/Lista'
+import Formulario from './components/Formulario'
 
 function App() {
-
   return (
-    <div>
-      <Lista/>
+    <div className="app">
+      <Formulario />
     </div>
   )
 }
