@@ -1,26 +1,30 @@
-import filmes from 
+import filmes from cards
 
 const filmes = [
+
     {
         id: 1,
-        nome:"Get Out",
-        capa: "https://img/",
-        genero:"Terror"
+        nome:"WAKANDA",
+        capa: "https://th.bing.com/th/id/R.cb29f86b13c0bccdb0d149eb70fe0f13?rik=Kk18IkpjnHrfuA&pid=ImgRaw&r=0",
+        genero:"Ação/Aventura"
 },
 {
     id: 2,
     nome: "Us",
-    capa: "",
+    capa: "https://th.bing.com/th/id/R.591da9a31f0fc150b1896cf90056a1e2?rik=H%2bNZwXN8y7UTCg&pid=ImgRaw&r=0",
     genero: "terror",
 },
 {
     id: 3,
-    nome: "a",
-    capa: "b",
-    genero: "c",
+    nome: "Morro Dos Ventos Uivantes",
+    capa: "https://th.bing.com/th/id/R.53eeb490865f6c1ebb59f4b95b3987ce?rik=nFWrW17BDZioqA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-pFOPsDz0bKI%2fUIshuvYCmqI%2fAAAAAAAAE7M%2fsgXeE5lQ-Zg%2fs1600%2fO%2bMorro%2bdos%2bVentos%2bUivantes.jpg&ehk=6lzv5NI2%2b%2f2F9%2fGY4FbQF7gPP3kjykw2Bvsj1QXgYic%3d&risl=&pid=ImgRaw&r=0",
+    genero: "Romance",
 },
 {
-
+        id: 1,
+        nome:"Mulher Rei",
+        capa: "https://th.bing.com/th/id/OIP._Kb5qn5AlzLSAxvAf0UcnAHaJQ?pid=ImgDet&rs=1",
+        genero:"Drama/Ação"
 },
 ]
 
